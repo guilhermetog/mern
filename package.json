@@ -1,0 +1,25 @@
+{
+  "name": "mern-boilerplate",
+  "version": "1.0.0",
+  "description": "Start kit to a MERN Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermetog/mern.git"
+  },
+  "keywords": [
+    "MERN",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "Guilherme Tognetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermetog/mern/issues"
+  },
+  "homepage": "https://github.com/guilhermetog/mern#readme"
+}
